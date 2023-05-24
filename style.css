@@ -1,0 +1,36 @@
+.cuerpo{
+    margin: auto 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cabeza{
+    background-color: #AEB6BF;
+    text-align: center;
+}
+.imagenprofile #fotoperfil{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: black solid 1px;
+    position: absolute;
+    top: 50px;
+    left: 230px;    
+}
+.menu{
+    width:max-content;
+    float: left;
+    margin: 10px 10px;
+    padding: 50px 10px 10px 20px;
+    
+}
+.profile-description{
+    background-color: #AEB6BF;
+    width: 300px;
+    float: right;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+.pie{
+    text-align: center;
+    clear: both;
+}
